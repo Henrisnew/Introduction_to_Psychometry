@@ -1,0 +1,1 @@
+Explore the fundamentals of psychometry in this repository! Learn about test construction, reliability, validity, and data analysis techniques essential for psychological assessment. Includes examples, resources, and practical guides for students and professionals. 🧠📊
